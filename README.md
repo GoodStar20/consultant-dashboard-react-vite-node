@@ -62,6 +62,7 @@ All requests must include header `x-tenant-id`.
 
 ### Screenshot3
 <img width="2442" height="1179" alt="image" src="https://github.com/user-attachments/assets/0430ed1f-050b-452a-9382-70d41c5b51c3" />
+
 <img width="2230" height="1182" alt="image" src="https://github.com/user-attachments/assets/de3560ef-56e6-44b5-8e4e-69d1a866cbe3" />
 
 ### Screenshot4
@@ -69,6 +70,7 @@ All requests must include header `x-tenant-id`.
 
 ### Screenshot5
 <img width="1108" height="478" alt="image" src="https://github.com/user-attachments/assets/26f0bcaa-e127-4ff9-abd1-fd9b95858996" />
+
 <img width="1120" height="449" alt="image" src="https://github.com/user-attachments/assets/ff59ec36-9fc2-4142-9513-ed12d84d8ec9" />
 
 ### Screenshot6
