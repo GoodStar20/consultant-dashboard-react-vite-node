@@ -55,7 +55,7 @@ All requests must include header `x-tenant-id`.
 6. Swagger page (`/docs`) visible.
 
 ### Screenshot1
-<img width="1144" height="1194" alt="image" src="https://github.com/user-attachments/assets/2c738cb7-18cb-4915-ace3-7a53d85c7fe6" />
+<img width="2646" height="1232" alt="image" src="https://github.com/user-attachments/assets/fb34e447-7781-4103-9bd4-0f89676e8f45" />
 
 ### Screenshot2
 <img width="1142" height="1168" alt="image" src="https://github.com/user-attachments/assets/95e8b5d6-73c8-4e59-9865-528cac034657" />
